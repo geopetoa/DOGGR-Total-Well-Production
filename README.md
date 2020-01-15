@@ -9,7 +9,7 @@ Tools: pandas, xlsxwriter, os
 
 Instructions:
 
-- Use DOGGR-Production-Data Script to batch download montly production data from DOGGR
+-Use DOGGR-Production-Data Script to batch download montly production data from DOGGR
 
 -Place all montly data files into single folder
 
